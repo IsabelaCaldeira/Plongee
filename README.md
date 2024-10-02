@@ -1,10 +1,10 @@
  # Let's take a dive! :woman_technologist: :blue_heart: 
 
-In the class called projet numérique it was focused in working with python to solve physics problems.
+In the class Projet Numérique focused on working with python to solve physics problems.
 
-Here is the final projet that I chosed, it means diving and it's about using the code to help us in working with problem and find a good way to represent to experience.
+We had a final projet about diving and here you can see the code that helped us to represent the experiment and do the calculations.
 
-It was a really cool to find how codes can help us with physic, even with a basic project like that we can start to understand to impact of computer science in the physic field.
+Even with a basic project like this we can start to understand the impact of computer science in the physic field, how it can be used to help us to solve problems and process data.
 
 If you are interested in a specific part, want more details or found some mistakes, send a merge request or open an issue! 
 
